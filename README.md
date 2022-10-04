@@ -28,6 +28,6 @@ in your site, from the content in your Markdown files.
 [![OS](https://img.shields.io/badge/Tested%20On-Linux%20%7C%20Android-yellowgreen.svg)](https://termux.com/)
 
 # Fan Art
-![ART](https://github.com/KruZira/Cool-Background/blob/master/rec-tab.webm)
+![ART](https://github.com/KruZira/Cool-Background/raw/master/image.gif)
 
-<video src='https://github.com/KruZira/Cool-Background/blob/master/rec-tab.webm' width=180/>
+<video src='https://github.com/KruZira/Cool-Background/raw/master/image.gif' width=180/>
