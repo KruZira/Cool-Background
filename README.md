@@ -21,6 +21,7 @@ Download the perfect developer image and use it to accelerate your web design ex
 ## How to Use this ?
 
 Just clone or Download this repository and host it locally on your Machine 👌
+And don't forget to leave a star ⭐ on the page ❤️
 
 
 [![MIT](https://img.shields.io/packagist/l/doctrine/orm.svg)](https://github.com/Manisso/Crips/blob/master/LICENSE)
