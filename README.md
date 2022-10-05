@@ -17,8 +17,9 @@
 
 # Cool Background
 
-As you might know, HTML5 introduced many exciting features for Web developers.
-One of the features is the ability to specify gradients using pure CSS3, without having to create any images and use them as repeating backgrounds for gradient effects.
+These are some of my favourites images for web Designs
+Download the perfect developer image and use it to accelerate your web design experience
+
 
 ## How to Use this ?
 
