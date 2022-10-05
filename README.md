@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/KruZira/Neumorphism/raw/master/ne.png" width="470" height="150">
+  <img src="https://github.com/KruZira/Cool-Background/blob/master/img.png" width="470" height="150">
 </p>
 
 <p align="center"><img src="https://img.shields.io/badge/Version-1.01-brightgreen"></p>
