@@ -17,8 +17,10 @@
 
 # Cool Background
 
-These are some of my favourites images for web Designs
+These are some of my favourites images for web Designs.
+
 Download the perfect developer image and use it to accelerate your web design experience
+
 
 
 ## How to Use this ?
