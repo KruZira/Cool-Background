@@ -22,7 +22,7 @@ Download the perfect developer image and use it to accelerate your web design ex
 
 Just clone or Download this repository and host it locally on your Machine 👌
 
-And don't forget to leave a star ⭐ on this page ❤️
+And Please don't forget to leave a star ⭐ on this page ❤️
 
 ### Your Favorite Dev // Kruz 
 
@@ -32,5 +32,5 @@ And don't forget to leave a star ⭐ on this page ❤️
 
 
 [![MIT](https://img.shields.io/packagist/l/doctrine/orm.svg)](https://github.com/Manisso/Crips/blob/master/LICENSE)
-[![python](https://img.shields.io/badge/python-2.7-brightgreen.svg)](https://www.python.org/downloads/release/python-2714/)
-[![OS](https://img.shields.io/badge/Tested%20On-Linux%20%7C%20Android-yellowgreen.svg)](https://termux.com/)
+[![python](https://img.shields.io/badge/python-3.8-brightgreen.svg)](https://www.python.org/downloads/release/python-3811/)
+[![OS](https://img.shields.io/badge/Tested%20On-Linux%20|%20windows%20|%20Android-yellowgreen.svg)](https://termux.com/)
